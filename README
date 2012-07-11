@@ -1,0 +1,1 @@
+a back end server for the fitness app. available url: 1)workoutwatcher.appspot.com/getworkouts : get all the workout data in XML format. 2) workoutwatcher.appspot.com/showmap : show all the workouts in a Google Map
